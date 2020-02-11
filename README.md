@@ -20,9 +20,21 @@ https://www.codewars.com/kata/5b180e9fedaa564a7000009a
 
 https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4
 
+### `/longestvowelchain`
+
+https://www.codewars.com/kata/59706036f6e5d1e22d000016
+
+### `/lovevsfriendship`
+
+https://www.codewars.com/kata/59c5f4e9d751df43cf000035
+
 ### `/rangebit`
 
 https://www.codewars.com/kata/58845748bd5733f1b300001f
+
+### `/splitandadd`
+
+https://www.codewars.com/kata/5946a0a64a2c5b596500019a
 
 ### `/sumofpositive`
 
