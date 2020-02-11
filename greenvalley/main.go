@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-func greenvalley(arr []int) []int {
+func solve(arr []int) []int {
 	sort.Sort(sort.Reverse(sort.IntSlice(arr)))
 
 	valley := make([]int, len(arr))

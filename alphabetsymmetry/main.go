@@ -4,7 +4,7 @@ import (
 	"strings"
 )
 
-func alphabetsymmetry(slice []string) []int {
+func solve(slice []string) []int {
 	result := make([]int, len(slice))
 
 	for i, v := range slice {

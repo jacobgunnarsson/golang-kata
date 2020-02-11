@@ -4,7 +4,7 @@ import (
 	"strings"
 )
 
-func abbreviation(name string) string {
+func solve(name string) string {
 	names := strings.Split(name, " ")
 
 	for i, n := range names {

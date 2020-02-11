@@ -8,7 +8,7 @@ import (
 )
 
 func dotest(a []int, exp []int) {
-	var ans = greenvalley(a)
+	var ans = solve(a)
 
 	Expect(ans).To(Equal(exp))
 }

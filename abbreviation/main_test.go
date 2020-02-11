@@ -9,11 +9,11 @@ import (
 
 var _ = Describe("Tests", func() {
 	It("should test that the solution returns the correct value", func() {
-		Expect(abbreviation("Sam Harris")).To(Equal("S.H"))
-		Expect(abbreviation("Patrick Feenan")).To(Equal("P.F"))
-		Expect(abbreviation("Evan Cole")).To(Equal("E.C"))
-		Expect(abbreviation("P Favuzzi")).To(Equal("P.F"))
-		Expect(abbreviation("David Mendieta")).To(Equal("D.M"))
+		Expect(solve("Sam Harris")).To(Equal("S.H"))
+		Expect(solve("Patrick Feenan")).To(Equal("P.F"))
+		Expect(solve("Evan Cole")).To(Equal("E.C"))
+		Expect(solve("P Favuzzi")).To(Equal("P.F"))
+		Expect(solve("David Mendieta")).To(Equal("D.M"))
 	})
 })
 
