@@ -40,6 +40,10 @@ https://www.codewars.com/kata/5946a0a64a2c5b596500019a
 
 https://www.codewars.com/kata/5715eaedb436cf5606000381
 
+### `/tablepattern`
+
+https://www.codewars.com/kata/5827e2efc983ca6f230000e0
+
 ### `/unluckydays`
 
 https://www.codewars.com/kata/56eb0be52caf798c630013c0
