@@ -32,6 +32,10 @@ https://www.codewars.com/kata/59706036f6e5d1e22d000016
 
 https://www.codewars.com/kata/59c5f4e9d751df43cf000035
 
+### `/numeicalsofastring`
+
+https://www.codewars.com/kata/5b4070144d7d8bbfe7000001
+
 ### `/rangebit`
 
 https://www.codewars.com/kata/58845748bd5733f1b300001f

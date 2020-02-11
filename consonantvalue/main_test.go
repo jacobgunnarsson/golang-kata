@@ -8,18 +8,11 @@ import (
 )
 
 var _ = Describe("Tests", func() {
-	It("Should return the correct values!", func() {
-		Expect(solve("a")).To(Equal(0))
-		Expect(solve("cbd")).To(Equal(9))
-		Expect(solve("zea")).To(Equal(26))
-		Expect(solve("az")).To(Equal(26))
-		Expect(solve("baz")).To(Equal(26))
-		Expect(solve("aeiou")).To(Equal(0))
-		Expect(solve("uaoczei")).To(Equal(29))
-		Expect(solve("abababababfapeifapefijaefaepfjavnefjnfbhwyfnjsifjapnes")).To(Equal(143))
-		Expect(solve("codewars")).To(Equal(37))
-		Expect(solve("bup")).To(Equal(16))
-	})
+	It("Hello, World!",func() {Expect(Numericals("Hello, World!")).To(Equal("1112111121311"))})
+	It("Inconceivable!",func() {Expect(Numericals("Inconceivable!")).To(Equal("11112211111121"))})
+	It("hello hello",func() {Expect(Numericals("hello hello")).To(Equal("11121122342"))})
+	It("Hello",func() {Expect(Numericals("Hello")).To(Equal("11121"))})
+	It("aaaaaaaaaaaa",func() {Expect(Numericals("aaaaaaaaaaaa")).To(Equal("123456789101112"))})
 })
 
 func Test(t *testing.T) {
