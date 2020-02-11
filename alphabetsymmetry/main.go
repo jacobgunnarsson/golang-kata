@@ -9,7 +9,7 @@ func solve(slice []string) []int {
 
 	for i, v := range slice {
 		for j, r := range strings.ToLower(v) {
-			if j == int(r)-97 {
+			if j == int(r) - 97 {
 				result[i] += 1
 			}
 		}
