@@ -40,6 +40,10 @@ https://www.codewars.com/kata/59706036f6e5d1e22d000016
 
 https://www.codewars.com/kata/59c5f4e9d751df43cf000035
 
+### `/mexicanwave`
+
+https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+
 ### `/numeicalsofastring`
 
 https://www.codewars.com/kata/5b4070144d7d8bbfe7000001
