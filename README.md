@@ -12,6 +12,10 @@ https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0
 
 https://www.codewars.com/kata/5869848f2d52095be20001d1
 
+### `/consecutiverepetion`
+
+https://www.codewars.com/kata/586d6cefbcc21eed7a001155
+
 ### `/consonantvalue`
 
 https://www.codewars.com/kata/59c633e7dcc4053512000073

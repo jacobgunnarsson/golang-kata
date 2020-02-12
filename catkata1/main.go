@@ -9,7 +9,7 @@ func solve(yard []string, minDistance int) bool {
 
 	for i, r := range yard {
 		for j, c := range r {
-			if string(c) != "-" {
+			if c != '-' {
 				cats[c] = [2]int{i, j}
 			}
 		}
