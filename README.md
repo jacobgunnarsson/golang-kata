@@ -40,6 +40,10 @@ https://www.codewars.com/kata/59706036f6e5d1e22d000016
 
 https://www.codewars.com/kata/59c5f4e9d751df43cf000035
 
+### `/meeting`
+
+https://www.codewars.com/kata/59df2f8f08c6cec835000012
+
 ### `/mexicanwave`
 
 https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
