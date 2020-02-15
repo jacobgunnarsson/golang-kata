@@ -56,6 +56,10 @@ https://www.codewars.com/kata/5b4070144d7d8bbfe7000001
 
 https://www.codewars.com/kata/58845748bd5733f1b300001f
 
+### `/snakesandladders`
+
+https://www.codewars.com/kata/587136ba2eefcb92a9000027
+
 ### `/splitandadd`
 
 https://www.codewars.com/kata/5946a0a64a2c5b596500019a
