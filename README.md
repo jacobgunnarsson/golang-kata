@@ -60,6 +60,10 @@ https://www.codewars.com/kata/58845748bd5733f1b300001f
 
 https://www.codewars.com/kata/587136ba2eefcb92a9000027
 
+### `/sodukovalidator`
+
+https://www.codewars.com/kata/529bf0e9bdf7657179000008
+
 ### `/splitandadd`
 
 https://www.codewars.com/kata/5946a0a64a2c5b596500019a
