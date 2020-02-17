@@ -24,6 +24,10 @@ https://www.codewars.com/kata/59c633e7dcc4053512000073
 
 https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
 
+### `/esolanginterpreter`
+
+https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
+
 ### `/fixstringcase`
 
 https://www.codewars.com/kata/5b180e9fedaa564a7000009a
